@@ -8,6 +8,11 @@ a{
     text-decoration: none;
 }
 
+doubleUnderline {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
 .h1font{
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: 40px;
