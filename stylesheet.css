@@ -8,6 +8,20 @@ a{
     text-decoration: none;
 }
 
+figure { 
+margin: 0 auto;
+padding: 1rem;
+width: 50%;
+}
+
+figcaption {
+margin: 0 auto;
+font-style: italic;
+color: grey;
+font-size: 12px;
+text-align: center
+}
+
 doubleUnderline {
     text-decoration-line: underline;
     text-decoration-style: double;
@@ -36,3 +50,10 @@ doubleUnderline {
 .spacer{
     margin-bottom: 10px;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
