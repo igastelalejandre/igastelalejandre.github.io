@@ -11,14 +11,14 @@ a{
 figure { 
 margin: 0 auto;
 padding: 1rem;
-width: 50%;
+width: 83%;
 }
 
 figcaption {
 margin: 0 auto;
 font-style: italic;
 color: grey;
-font-size: 12px;
+font-size: 13px;
 text-align: center
 }
 
@@ -55,5 +55,5 @@ doubleUnderline {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 83%;
   }
